@@ -1,6 +1,6 @@
 # servicelog-legal
 
-Privacy policy and terms of use of the ServiceLog app, in English, Spanish, Portuguese and
+Privacy policy and terms of use of the Jobwise app, in English, Spanish, Portuguese and
 French, published with GitHub Pages at https://ronyjdsl.github.io/servicelog-legal/
 
 - Privacy policy: `/privacy/<en|es|pt|fr>/`
